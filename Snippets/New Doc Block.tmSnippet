@@ -12,6 +12,8 @@
 	<string>New Doc Block</string>
 	<key>scope</key>
 	<string>source.java, source.groovy</string>
+	<key>tabTrigger</key>
+	<string>/**</string>
 	<key>uuid</key>
 	<string>D581B98E-E266-4059-A94E-F8FA1684917F</string>
 </dict>
